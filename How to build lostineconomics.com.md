@@ -40,6 +40,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 ![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_3.png?raw=True =250x)
 
+<p align="center">
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_3.png?raw=True"></p>
+
+
+
 3번이 이채로운 대목이다. 왼쪽 끝의 네모 안에 들어있는 샵을 누르면 그림처럼 메뉴가 펼쳐진다. 
 
 - "Workspace"는 stackedit.io의 여러가지 환경을 저장하는 공간이다. 이 덕분에 서로 다른 장비에서도 로그인만 하면 동일한 결과가 보장된다. 
@@ -75,21 +80,24 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 앞서 각 리포의 스태틱웹은 브랜치(일반적으로는 마스터 브랜치)에 index.html &rarr; index.md &rarr; README.md 순으로 문서를 읽어 이 녀석을 주소가 왔을 때 노출한다. 따라서 우리가 만든 문서를 html로 바꾸고 이를 `index.html` 해당 리포에 넣어주면 이 녀석을 저 주소에서 웹에 노출시킬 수 있는 것이다. stackedit.io의 publish 기능이 바로 이것을 실현해준다. 
 
-![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True =300x)
+<p align="center">
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True"></p>
+
 
 - 싱크 버튼(원형 화살표)을 누르면 파일이 동기화된다. 즉 작업 중인 md 파일이 동기화된다. 
 - 업로드 버튼을 누르면 publish가 구현된다. 즉 이미 지정해둔 파일 형식와 위치에 해당 파일이 푸시된다. 
-![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6.png?raw=True =300x)
+
+<p align="center">
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6.png?raw=True"></p>
+
 - Publish에서 주의해야 할 것은 "File Path"다. 보통 작성중인 md 파일이 디폴트로 담겨 있다. 녀석을 `index.html`로 바꿔주자. 한번만 바꿔주면 이대로 깃헙으로 푸시가 이루어진다. 
 - 마지막으로 깃헙 리포의 "Setting"에서 "Github Pages" 옵션을 활성화해준다. 활성화 후 주소를 확인할 수 있다. 
 
 <p align="center">
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True"></p>
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True"></p>
 
-
-![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True =300x)
-
-![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True =300x)
+<p align="center">
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True"></p>
 
 해당 버튼 옆에 깃헙 아이콘은 동기화된 파일로 이동을 바로 구현해준다. 이것도 꽤 편리하게 활용할 수 있다. 구현 방식을 정리해보자. 
 
@@ -116,6 +124,6 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDQ5NDkwOSwtMjg3NjQ2MDkyLC0xNz
+eyJoaXN0b3J5IjpbLTM2NDE2OTU5NSwtMjg3NjQ2MDkyLC0xNz
 k0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
