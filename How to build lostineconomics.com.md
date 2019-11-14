@@ -37,7 +37,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 있다. 그 중에서 나는 stackedit가 킹왕짱이라고 말하고 싶다. 이유는 아래와 같다. 
 
 <p align="center">
-</kbd>
+<kbd>
   <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_2.png?raw=True"></kbd></p>
   
 1. github에서 소스를 받아와 웹 브라우저 상에서 구현된다. 개인별 설정은 구글 드라이브 혹은 깃헙 저장한다. 어디써 쓰든 로긴만 하면 동일한 환경이 보장된다. 
@@ -45,7 +45,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 3. md 문서를 다양한 형태로 저장하고, 변형하고, publish할 수 있다. 
 
 <p align="center">
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_3.png?raw=True"></p>
+<kbd>
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_3.png?raw=True"></kbd></p>
 
 3번이 이채로운 대목이다. 왼쪽 끝의 네모 안에 들어있는 샵을 누르면 그림처럼 메뉴가 펼쳐진다. 
 
@@ -83,20 +84,23 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 앞서 각 리포의 스태틱웹은 브랜치(일반적으로는 마스터 브랜치)에 `index.html` &rarr; `index.md` &rarr; `README.md` 순으로 문서를 읽어 이 녀석을 주소가 왔을 때 노출한다. 따라서 우리가 만든 문서를 html로 바꾸고 이를 `index.html` 해당 리포에 넣어주면 이 녀석을 저 주소에서 웹에 노출시킬 수 있는 것이다. stackedit.io의 publish 기능이 바로 이것을 실현해준다. 
 
 <p align="center">
-  <img width="500" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True"></p>
+<kbd>
+  <img width="500" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True"></kbd></p>
 
 
 - 싱크 버튼(원형 화살표)을 누르면 파일이 동기화된다. 즉 작업 중인 md 파일이 동기화된다. 
 - 업로드 버튼을 누르면 publish가 구현된다. 즉 이미 지정해둔 파일 형식와 위치에 해당 파일이 푸시된다. 
 
 <p align="center">
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6.png?raw=True"></p>
+<kbd>
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6.png?raw=True"></kbd></p>
 
 - Publish에서 주의해야 할 것은 "File Path"다. 보통 작성중인 md 파일이 디폴트로 담겨 있다. 녀석을 `index.html`로 바꿔주자. 한번만 바꿔주면 이대로 깃헙으로 푸시가 이루어진다. 
 - 마지막으로 깃헙 리포의 "Setting"에서 "Github Pages" 옵션을 활성화해준다. 활성화 후 주소를 확인할 수 있다. 
 
 <p align="center">
-  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True"></p>
+<kbd>
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True"></kbd></p>
 
 <p align="center">
   <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True"></p>
@@ -122,11 +126,12 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 설정하고 이를 저장할 수 있다. 앞서 Publish 이미지에서 확인할 수 있듯이 해당 스타일을 적용할 수 있는 옵션을 제공한다. 
 
 <p align="center">
-  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True"></p>
+<kbd>
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True"></kbd></p>
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Nzc0NzkzMCwtMTI4MjcyOTg2LDE1MT
-kwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4NzY0NjA5
-MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
+eyJoaXN0b3J5IjpbOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOT
+A4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDky
+LC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
