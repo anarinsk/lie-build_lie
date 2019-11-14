@@ -123,7 +123,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
  
 # Customization! 
 
-아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 설정하고 이를 저장할 수 있다. 앞서 Publish 이미지에서 확인할 수 있듯이 해당 스타일을 적용할 수 있는 옵션을 제공한다. 
+아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 입맛대로 설정하고 이를 저장할 수 있다. 앞서 Publish 메뉴에서 확인할 수 있듯이 자신이 필요한 스타일을 적용할 수 있는 옵션을 제공한다. 
 
 <p align="center">
 <kbd>
@@ -131,7 +131,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOT
-A4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDky
-LC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbLTExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMj
+gyNzI5ODYsMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0
+MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
