@@ -44,8 +44,6 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 <p align="center">
   <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_3.png?raw=True"></p>
 
-
-
 3번이 이채로운 대목이다. 왼쪽 끝의 네모 안에 들어있는 샵을 누르면 그림처럼 메뉴가 펼쳐진다. 
 
 - "Workspace"는 stackedit.io의 여러가지 환경을 저장하는 공간이다. 이 덕분에 서로 다른 장비에서도 로그인만 하면 동일한 결과가 보장된다. 
@@ -125,6 +123,6 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NTc4OTk4LC0yODc2NDYwOTIsLTE3OT
-QwNDQ3NDMsMzc1MjMzNzk4XX0=
+eyJoaXN0b3J5IjpbLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNz
+k0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
