@@ -30,7 +30,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 1이 가능해진 까닭은 깃헙에서 static web을 지원하기 때문이다. 깃헙을 이용 하면 이용자의 리포지터리(리포) 별로 프로젝트 페이지를 만들 수 있다. 이 녀석을 활용하면 Jekyll, Hugo 등을 활용해 github 위에서 제대로 돌아가는 블로그, 홈페이지를 제작할 수 있다. 좋은 튜토리얼은 언제나처럼 구글신께 문의하시라.[^1]
 
-[^1]: 링크 하나만 적얻 [https://blog.chulgil.me/how-to-make-blog-using-github-1](https://blog.chulgil.me/how-to-make-blog-using-github-1/)
+[^1]: 링크 하나만 적어둔다.  [https://blog.chulgil.me/how-to-make-blog-using-github-1](https://blog.chulgil.me/how-to-make-blog-using-github-1/)
 
 문득 마음에 드는 Hugo skin을 고르다가 이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 $\LaTeX$ 이 휼륭하게 렌더링되는 정도다...' 그런데 이런 미니멀리즘 구현하는 게 의외로 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)으로 글을 쓰면 여기에 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지... 
 
@@ -133,8 +133,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMzkzNTgwLC0xODAxOTk3ODE2LC0xMT
-kyODU0Njc5LDkyODgzODc0MiwtMTI4MjcyOTg2LDE1MTkwODk1
-NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4NzY0NjA5MiwtMT
-c5NDA0NDc0MywzNzUyMzM3OThdfQ==
+eyJoaXN0b3J5IjpbLTI5OTU0MDA3OSwtMTgwMTk5NzgxNiwtMT
+E5Mjg1NDY3OSw5Mjg4Mzg3NDIsLTEyODI3Mjk4NiwxNTE5MDg5
+NTQ5LDY3NjYwMDY3NiwtNzI1OTIyMzQyLC0yODc2NDYwOTIsLT
+E3OTQwNDQ3NDMsMzc1MjMzNzk4XX0=
 -->
