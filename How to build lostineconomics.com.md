@@ -28,9 +28,9 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 2. 과도할 정도로 깔끔한 사이트를 만든다. 
 3. 코딩이 포함된 글 이외에 빠르고 쉽게 쓸 수 있어야 한다. 
 
-1이 가능해진 까닭은 github에서 static web을 지원한 덕분이다. github을 이용 하면 이용자의 리포지터리 별로 프로젝트 페이지를 만들 수 있다. 이 녀석을 활용하면 Jekyll, Hugo 등을 활용해 github 위에서 제대로 돌아가는 블로그, 홈페이지를 제작할 수 있다. 
+1이 가능해진 까닭은 깃헙에서 static web을 지원하기 때문이다. 깃헙을 이용 하면 이용자의 리포지터리(리포) 별로 프로젝트 페이지를 만들 수 있다. 이 녀석을 활용하면 Jekyll, Hugo 등을 활용해 github 위에서 제대로 돌아가는 블로그, 홈페이지를 제작할 수 있다. 
 
-문득 마음에 드는 Hugo skin을 고르다가 이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 $\LaTeX$ 이 휼륭하게 렌더링되는 정도다. 그런데 이런 미니멀리즘 구현하는 게 의외로 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)으로 글을 쓰면 여기에 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지... 
+문득 마음에 드는 Hugo skin을 고르다가 이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 $\LaTeX$ 이 휼륭하게 렌더링되는 정도다...' 그런데 이런 미니멀리즘 구현하는 게 의외로 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)으로 글을 쓰면 여기에 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지... 
 
 # stackedit.io, the king 
 
@@ -131,7 +131,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMj
-gyNzI5ODYsMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0
-MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbLTE4MDE5OTc4MTYsLTExOTI4NTQ2NzksOT
+I4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOTA4OTU0OSw2NzY2MDA2
+NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0NzQzLD
+M3NTIzMzc5OF19
 -->
