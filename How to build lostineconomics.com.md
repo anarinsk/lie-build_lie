@@ -12,7 +12,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 # 뭐 대단한 사이트라고... 
 
-그렇다. 전혀 대단하지 않다. 왜 이런 글을 쓰냐고? 그냥 기록을 위해서다. 미래의 어느 시점에서 다 까먹을 나놈을 위해서 기록을 남겨 놓는 것이다. 혹시라도 도움이 된다면 몹시 고맙겠다. 
+그렇다. 전혀 대단하지 않다. 왜 이런 글을 쓰냐고? 그냥 기록을 위해서다. 미래의 어느 시점에서 다 까먹을 '나'놈을 위해서 기록을 남겨 놓는 것이다. 이 글을 볼 사람도 없겠으나, 혹시라도 도움이 된다면 고맙겠다. 
 
 <p align="center">
   <img width="600" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True"></p>
@@ -122,6 +122,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4Nz
-Y0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
+eyJoaXN0b3J5IjpbMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNT
+kyMjM0MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5
+OF19
 -->
