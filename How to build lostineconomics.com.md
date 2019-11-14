@@ -83,6 +83,10 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 - Publish에서 주의해야 할 것은 "File Path"다. 보통 작성중인 md 파일이 디폴트로 담겨 있다. 녀석을 `index.html`로 바꿔주자. 한번만 바꿔주면 이대로 깃헙으로 푸시가 이루어진다. 
 - 마지막으로 깃헙 리포의 "Setting"에서 "Github Pages" 옵션을 활성화해준다. 활성화 후 주소를 확인할 수 있다. 
 
+<p align="center">
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True"></p>
+
+
 ![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True =300x)
 
 ![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True =300x)
@@ -107,15 +111,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 설정하고 이를 저장할 수 있다. 앞서 Publish 이미지에서 확인할 수 있듯이 해당 스타일을 적용할 수 있는 옵션을 제공한다. 
 
-```
 <p align="center">
-  <img width="600" height="200" src="https://www.python.org/python-.png">
-</p>
-```
-![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True?style= =400x)
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True"></p>
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUzNTAxNTksLTI4NzY0NjA5MiwtMT
-c5NDA0NDc0MywzNzUyMzM3OThdfQ==
+eyJoaXN0b3J5IjpbMTc4NDQ5NDkwOSwtMjg3NjQ2MDkyLC0xNz
+k0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
