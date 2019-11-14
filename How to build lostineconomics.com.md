@@ -15,7 +15,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 그렇다. 전혀 대단하지 않다. 왜 이런 글을 쓰냐고? 그냥 기록을 위해서다. 미래의 어느 시점에서 다 까먹을 '나'놈을 위해서 기록을 남겨 놓는 것이다. 이 글을 볼 사람도 없겠으나, 혹시라도 도움이 된다면 고맙겠다. 
 
 <p align="center">
-  <img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True" width="600"></p>
+<kbd>
+  <img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True" width="600">
+</kbd></p>
+
 
 # Contraints
 
@@ -34,7 +37,8 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 있다. 그 중에서 나는 stackedit가 킹왕짱이라고 말하고 싶다. 이유는 아래와 같다. 
 
 <p align="center">
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_2.png?raw=True"></p>
+</kbd>
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_2.png?raw=True"></kbd></p>
   
 1. github에서 소스를 받아와 웹 브라우저 상에서 구현된다. 개인별 설정은 구글 드라이브 혹은 깃헙 저장한다. 어디써 쓰든 로긴만 하면 동일한 환경이 보장된다. 
 2. 위 그림처럼 폴더 버튼을 누리면 외쪽ㅇ로 어떤 것을 썼는지 볼 수 있고 디렉토리 구조로 정리도 쉽게 구현할 수 있다. 
@@ -122,7 +126,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDEzMTE1MjEsLTEyODI3Mjk4NiwxNT
-E5MDg5NTQ5LDY3NjYwMDY3NiwtNzI1OTIyMzQyLC0yODc2NDYw
-OTIsLTE3OTQwNDQ3NDMsMzc1MjMzNzk4XX0=
+eyJoaXN0b3J5IjpbMTQ0Nzc0NzkzMCwtMTI4MjcyOTg2LDE1MT
+kwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4NzY0NjA5
+MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
 -->
