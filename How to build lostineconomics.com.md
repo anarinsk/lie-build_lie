@@ -26,9 +26,9 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 1. 도메인 구입 비용만 제외하고 github(깃헙)만 쓴다.
 2. 과도할 정도로 깔끔한 사이트를 만든다. 
-3. 코딩이 포함된 글 이외에 빠르고 쉽게 쓸 수 있어야 한다. 
+3. 코딩이 포함된 포스팅을 제외하고 수식을 포함해 빠르고 쉽게 포스팅을 작성한다.  
 
-1이 가능해진 까닭은 깃헙에서 static web을 지원하기 때문이다. 깃헙을 이용 하면 이용자의 리포지터리(리포) 별로 프로젝트 페이지를 만들 수 있다. 이 녀석을 활용하면 Jekyll, Hugo 등을 활용해 github 위에서 제대로 돌아가는 블로그, 홈페이지를 제작할 수 있다. 좋은 튜토리얼은 언제나처럼 구글신께 문의하시라.[^1]
+1이 가능해진 까닭은 깃헙에서 static web을 지원하기 때문이다. 깃헙을 이용 하면 이용자의 리포지터리(리포) 별로 프로젝트 페이지(Github Pages)를 만들 수 있다. 이 녀석을 활용하면 Jekyll, Hugo 등의 도구를 활용해 github 위에서 제대로 돌아가는 블로그, 홈페이지를 제작할 수 있다. 좋은 튜토리얼은 언제나처럼 구글신께 문의하시라.[^1]
 
 [^1]: 링크 하나만 적어둔다.  [https://blog.chulgil.me/how-to-make-blog-using-github-1](https://blog.chulgil.me/how-to-make-blog-using-github-1/)
 
@@ -133,7 +133,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzE4NjUxOSwtMjk5NTQwMDc5LC0xOD
+eyJoaXN0b3J5IjpbMjE0MTc3NjcyNiwtMjk5NTQwMDc5LC0xOD
 AxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4Mjcy
 OTg2LDE1MTkwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLT
 I4NzY0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
