@@ -57,7 +57,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 - import/export는 외부의 문서를 들여오고 내보내는 기능이다. 예를 들어, md로 작성한 문서를 html의 포맷으로 로컬이 다운받을 수 있다. 
 - publish가 상당히 특이한 기능인데, 이는 변형된 형태의 문서를 다시 다른 저장소로 내보내는 것을 의미한다. 이 기능이 블로그를 편리하게 운영하는 데 핵심적인 역할을 한다. 
 
-# Basic Scheme 
+# Landing index.html
 
 일단 자신의 깃헙 아이디로 리포지터리(리포)를 딴다. 즉, lostineconomics.com의 경우에는 `anarinsk.github.io`가 된다. 이 주소가 해당 아이디의 대표 주소가 된다. 이 페이지는 일종의 랜딩 페이지, 즉 대문이다. 대문에는 적절한 스타일을 입힐 수 있겠지만, 그런 일은 별로 안 하는 것이 좋다. 대문 페이지의 경우 
 
@@ -65,7 +65,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 - `_config.yaml` 파일을 거의 다 날리고 필요한 부분만 챙겼다. 
 - `index.md` 파일은 대문에 노출될 콘텐츠를 담고 있다. 새로운 포스트가 생길 경우 이 부분만 수정하면 된다. 이 파일 역시 stackedit.io에 연결해두고 쓰면 편리하다. [직접](https://github.com/anarinsk/anarinsk.github.io) 둘러보시라. 
 
-# Hard way 
+# Write Hard Way 
 
 - stackedit.io의 export 기능을 활용했다. 그럼처럼 `import/export` &rarr; `export as HTML`로 html로 로컬에 저장한다.
 - 해당 html을 github의 public 리포에 올려둔다. 
@@ -76,7 +76,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 - 복잡하다. md를 고치고 html로 저장하고 이를 다시 깃헙을 열어 심어줘야 한다. 뭔가 깔끔하지 않다. 
 - html을 렌더링해주는 서비스가 그다지 빠릿빠릿하지 않다. 없어지는 서비스도 있고 렌더링도 느린 경우도 종종 있다. 
 
-# Easy way 
+# Write Easy Way 
 
 곰곰히 생각해보니 더 쉬운 방법이 있었다. 이 방법을 가능하게 하는 요소는 다음과 같다. 
 
@@ -123,7 +123,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리상 편할 수 있다. 만일 포스팅이 많은 데이터나 자료가 동원된다면 오히려 자연스럽게 정리되는 효과도 있다. 
  
-# Customization! 
+# Customization?
 
 아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 입맛대로 설정하고 이를 저장할 수 있다. 앞서 Publish 메뉴에서 확인할 수 있듯이 자신이 필요한 스타일을 적용할 수 있는 옵션을 제공한다. 
 
@@ -133,9 +133,9 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDMzNDIxMywxODg3MDIxNTYsLTI5OT
-U0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1NDY3OSw5Mjg4Mzg3
-NDIsLTEyODI3Mjk4NiwxNTE5MDg5NTQ5LDY3NjYwMDY3NiwtNz
-I1OTIyMzQyLC0yODc2NDYwOTIsLTE3OTQwNDQ3NDMsMzc1MjMz
-Nzk4XX0=
+eyJoaXN0b3J5IjpbNzM5ODQwNTIyLDEzMDAzMzQyMTMsMTg4Nz
+AyMTU2LC0yOTk1NDAwNzksLTE4MDE5OTc4MTYsLTExOTI4NTQ2
+NzksOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOTA4OTU0OSw2Nz
+Y2MDA2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0
+NzQzLDM3NTIzMzc5OF19
 -->
