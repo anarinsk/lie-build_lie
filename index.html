@@ -38,7 +38,8 @@ width:  50%;
 </ul>
 <h1 id="뭐-대단한-사이트라고...">뭐 대단한 사이트라고…</h1>
 <p>그렇다. 전혀 대단하지 않다. 왜 이런 글을 쓰냐고? 그냥 기록을 위해서다. 미래의 어느 시점에서 다 까먹을 나놈을 위해서 기록을 남겨 놓는 것이다. 혹시라도 도움이 된다면 몹시 고맙겠다.</p>
-<p><img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True" alt="enter image description here" width="600"></p>
+<p align="center">
+  <img width="600" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True"></p>
 <h1 id="contraints">Contraints</h1>
 <p>애초에 이 사이트를 만들면서 몇 가지 제약 사항을 걸었다.</p>
 <ol>
@@ -50,13 +51,15 @@ width:  50%;
 <p>문득 마음에 드는 Hugo skin을 고르다가 이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.89883em; vertical-align: -0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right: -0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.68333em;"><span class="" style="top: -2.905em;"><span class="pstrut" style="height: 2.7em;"></span><span class="mord text"><span class="mord textrm sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right: -0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right: -0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.46783em;"><span class="" style="top: -2.7845em;"><span class="pstrut" style="height: 3em;"></span><span class="mord text"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.2155em;"><span class=""></span></span></span></span><span class="mspace" style="margin-right: -0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span></span> 이 휼륭하게 렌더링되는 정도다. 그런데 이런 미니멀리즘 구현하는 게 의외로 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)으로 글을 쓰면 여기에 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지…</p>
 <h1 id="stackedit.io-the-king"><a href="http://stackedit.io">stackedit.io</a>, the king</h1>
 <p>md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 있다. 그 중에서 나는 stackedit가 킹왕짱이라고 말하고 싶다. 이유는 아래와 같다.</p>
-<p><img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_2.png?raw=True" alt="enter image description here" width="250"></p>
+<p align="center">
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_2.png?raw=True"></p>
 <ol>
 <li>github에서 소스를 받아와 웹 브라우저 상에서 구현된다. 개인별 설정은 구글 드라이브 혹은 깃헙 저장한다. 어디써 쓰든 로긴만 하면 동일한 환경이 보장된다.</li>
 <li>위 그림처럼 폴더 버튼을 누리면 외쪽ㅇ로 어떤 것을 썼는지 볼 수 있고 디렉토리 구조로 정리도 쉽게 구현할 수 있다.</li>
 <li>md 문서를 다양한 형태로 저장하고, 변형하고, publish할 수 있다.</li>
 </ol>
-<p><img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_3.png?raw=True" alt="enter image description here" width="250"></p>
+<p align="center">
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_3.png?raw=True"></p>
 <p>3번이 이채로운 대목이다. 왼쪽 끝의 네모 안에 들어있는 샵을 누르면 그림처럼 메뉴가 펼쳐진다.</p>
 <ul>
 <li>"Workspace"는 stackedit.io의 여러가지 환경을 저장하는 공간이다. 이 덕분에 서로 다른 장비에서도 로그인만 하면 동일한 결과가 보장된다.</li>
@@ -89,16 +92,22 @@ width:  50%;
 <li>문제는 stackedit.io에서 작업한 md 문서를 바로 html로 필요한 리포에 집어 넣는 방법이다. 이를 구현해주는 것이 stackedit의 publish 기능이다. 이 기능을 활용하면 필요한 포맷으로 필요한 위치에 파일을 넣을 수 있다.</li>
 </ul>
 <p>앞서 각 리포의 스태틱웹은 브랜치(일반적으로는 마스터 브랜치)에 index.html → <a href="http://index.md">index.md</a> → <a href="http://README.md">README.md</a> 순으로 문서를 읽어 이 녀석을 주소가 왔을 때 노출한다. 따라서 우리가 만든 문서를 html로 바꾸고 이를 <code>index.html</code> 해당 리포에 넣어주면 이 녀석을 저 주소에서 웹에 노출시킬 수 있는 것이다. stackedit.io의 publish 기능이 바로 이것을 실현해준다.</p>
-<p><img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True" alt="enter image description here" width="300"></p>
+<p align="center">
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True"></p>
 <ul>
 <li>싱크 버튼(원형 화살표)을 누르면 파일이 동기화된다. 즉 작업 중인 md 파일이 동기화된다.</li>
-<li>업로드 버튼을 누르면 publish가 구현된다. 즉 이미 지정해둔 파일 형식와 위치에 해당 파일이 푸시된다.<br>
-<img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6.png?raw=True" alt="enter image description here" width="300"></li>
+<li>업로드 버튼을 누르면 publish가 구현된다. 즉 이미 지정해둔 파일 형식와 위치에 해당 파일이 푸시된다.</li>
+</ul>
+<p align="center">
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6.png?raw=True"></p>
+<ul>
 <li>Publish에서 주의해야 할 것은 "File Path"다. 보통 작성중인 md 파일이 디폴트로 담겨 있다. 녀석을 <code>index.html</code>로 바꿔주자. 한번만 바꿔주면 이대로 깃헙으로 푸시가 이루어진다.</li>
 <li>마지막으로 깃헙 리포의 "Setting"에서 “Github Pages” 옵션을 활성화해준다. 활성화 후 주소를 확인할 수 있다.</li>
 </ul>
-<p><img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True" alt="enter image description here" width="300"></p>
-<p><img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True" alt="enter image description here" width="300"></p>
+<p align="center">
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True"></p>
+<p align="center">
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True"></p>
 <p>해당 버튼 옆에 깃헙 아이콘은 동기화된 파일로 이동을 바로 구현해준다. 이것도 꽤 편리하게 활용할 수 있다. 구현 방식을 정리해보자.</p>
 <ol>
 <li>stackedit.io에서 md를 적성한다.</li>
@@ -116,7 +125,8 @@ width:  50%;
 <p>별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리상 편할 수 있다. 만일 포스팅이 많은 데이터나 자료가 동원된다면 오히려 자연스럽게 정리되는 효과도 있다.</p>
 <h1 id="customization">Customization!</h1>
 <p>아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. “Templates” 메뉴에서 특화된 html을 설정하고 이를 저장할 수 있다. 앞서 Publish 이미지에서 확인할 수 있듯이 해당 스타일을 적용할 수 있는 옵션을 제공한다.</p>
-<p><img src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True" alt="enter image description here">{: .center-image, height=“300px”, width=“150px”}</p>
+<p align="center">
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True"></p>
 <p>🏠<a href="http://lostineconomics.com">lostineconomics.com</a> | Jun Sok Huhh</p>
 </div>
 </body>
