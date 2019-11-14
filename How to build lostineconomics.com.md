@@ -107,10 +107,13 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 설정하고 이를 저장할 수 있다. 앞서 Publish 이미지에서 확인할 수 있듯이 해당 스타일을 적용할 수 있는 옵션을 제공한다. 
 
-![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True =400x){: .mycenter }
+![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True){: .center-image, height="300px", width="150px"}
+
+
+{: .mycenter }
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MzcyOTczLC0yODc2NDYwOTIsLTE3OT
-QwNDQ3NDMsMzc1MjMzNzk4XX0=
+eyJoaXN0b3J5IjpbMTM1NzgxNzMwNSwtMjg3NjQ2MDkyLC0xNz
+k0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
