@@ -63,7 +63,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 - 깃헙에서 제공하는 Jekyll을 활용할 수 있다. lostineconomics.com의 경우 minimal 양식을 활용했다. 
 - `_config.yaml` 파일을 거의 다 날리고 필요한 부분만 챙겼다. 
-- `_index.md` 파일은 대문에 노출될 콘텐츠를 담고 있다. 새로운 포스트가 생길 경우 이 부분만 수정하면 된다. 이 파일 역시 stackedit.io에 연결해두고 쓰면 편리하다. 직접 둘러보셔도 좋겠다. [https://github.com/anarinsk/anarinsk.github.io](https://github.com/anarinsk/anarinsk.github.io)
+- `index.md` 파일은 대문에 노출될 콘텐츠를 담고 있다. 새로운 포스트가 생길 경우 이 부분만 수정하면 된다. 이 파일 역시 stackedit.io에 연결해두고 쓰면 편리하다. [직접](https://github.com/anarinsk/anarinsk.github.io](https://github.com/anarinsk/anarinsk.github.io)
 
 # Hard way 
 
@@ -133,8 +133,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTU0MDA3OSwtMTgwMTk5NzgxNiwtMT
-E5Mjg1NDY3OSw5Mjg4Mzg3NDIsLTEyODI3Mjk4NiwxNTE5MDg5
-NTQ5LDY3NjYwMDY3NiwtNzI1OTIyMzQyLC0yODc2NDYwOTIsLT
-E3OTQwNDQ3NDMsMzc1MjMzNzk4XX0=
+eyJoaXN0b3J5IjpbMTQ4NjM4MDg3OCwtMjk5NTQwMDc5LC0xOD
+AxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4Mjcy
+OTg2LDE1MTkwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLT
+I4NzY0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
 -->
