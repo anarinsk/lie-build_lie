@@ -32,7 +32,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 [^1]: 링크 하나만 적어둔다.  [https://blog.chulgil.me/how-to-make-blog-using-github-1](https://blog.chulgil.me/how-to-make-blog-using-github-1/)
 
-문득 마음에 드는 Hugo skin을 고르다가 이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 $\LaTeX$ 이 휼륭하게 렌더링되는 정도다...' 그런데 이런 미니멀리즘 구현하는 게 의외로 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)으로 글을 쓰면 여기에 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지... 
+어느날 마음에 드는 Hugo skin을 고르고 있다가  이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 $\LaTeX$ 이 휼륭하게 렌더링되는 정도인데..." 그런데 이런 허름한 미니멀리즘 구현하는 게 의외로 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)로 글을 쓰면 여기에 여러 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지... 
 
 # stackedit.io, the king 
 
@@ -133,8 +133,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTc3NjcyNiwtMjk5NTQwMDc5LC0xOD
-AxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4Mjcy
-OTg2LDE1MTkwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLT
-I4NzY0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
+eyJoaXN0b3J5IjpbMTg4NzAyMTU2LC0yOTk1NDAwNzksLTE4MD
+E5OTc4MTYsLTExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMjgyNzI5
+ODYsMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0MiwtMj
+g3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
