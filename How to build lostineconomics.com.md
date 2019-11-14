@@ -109,11 +109,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 ![enter image description here](https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True){: .center-image, height="300px", width="150px"}
 
-
-{: .mycenter }
-
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzgxNzMwNSwtMjg3NjQ2MDkyLC0xNz
-k0MDQ0NzQzLDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbLTExNTczNDY2MzAsLTI4NzY0NjA5MiwtMT
+c5NDA0NDc0MywzNzUyMzM3OThdfQ==
 -->
