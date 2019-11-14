@@ -43,7 +43,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
   <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_2.png?raw=True"></kbd></p>
   
 1. github에서 소스를 받아와 웹 브라우저 상에서 구현된다. 개인별 설정은 구글 드라이브 혹은 깃헙 저장한다. 어디써 쓰든 로긴만 하면 동일한 환경이 보장된다. 
-2. 위 그림처럼 폴더 버튼을 누리면 외쪽ㅇ로 어떤 것을 썼는지 볼 수 있고 디렉토리 구조로 정리도 쉽게 구현할 수 있다. 
+2. 위 그림처럼 폴더 버튼을 누리면 왼쪽으로 어떤 것을 썼는지 볼 수 있고 디렉토리 구조로 정리도 쉽게 구현할 수 있다. 
 3. md 문서를 다양한 형태로 저장하고, 변형하고, publish할 수 있다. 
 
 <p align="center">
@@ -133,8 +133,9 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzAyMTU2LC0yOTk1NDAwNzksLTE4MD
-E5OTc4MTYsLTExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMjgyNzI5
-ODYsMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0MiwtMj
-g3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbMTMwMDMzNDIxMywxODg3MDIxNTYsLTI5OT
+U0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1NDY3OSw5Mjg4Mzg3
+NDIsLTEyODI3Mjk4NiwxNTE5MDg5NTQ5LDY3NjYwMDY3NiwtNz
+I1OTIyMzQyLC0yODc2NDYwOTIsLTE3OTQwNDQ3NDMsMzc1MjMz
+Nzk4XX0=
 -->
