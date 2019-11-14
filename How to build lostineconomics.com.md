@@ -15,7 +15,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 그렇다. 전혀 대단하지 않다. 왜 이런 글을 쓰냐고? 그냥 기록을 위해서다. 미래의 어느 시점에서 다 까먹을 '나'놈을 위해서 기록을 남겨 놓는 것이다. 이 글을 볼 사람도 없겠으나, 혹시라도 도움이 된다면 고맙겠다. 
 
 <p align="center">
-  <img style=width="600" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True"></p>
+  <img style="border:2px solid black;" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True" width="600"></p>
 
 # Contraints
 
@@ -122,7 +122,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDMzMDksMTUxOTA4OTU0OSw2NzY2MD
-A2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0NzQz
-LDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbLTEyODI3Mjk4NiwxNTE5MDg5NTQ5LDY3Nj
+YwMDY3NiwtNzI1OTIyMzQyLC0yODc2NDYwOTIsLTE3OTQwNDQ3
+NDMsMzc1MjMzNzk4XX0=
 -->
