@@ -79,7 +79,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 앞서 각 리포의 스태틱웹은 브랜치(일반적으로는 마스터 브랜치)에 `index.html` &rarr; `index.md` &rarr; `README.md` 순으로 문서를 읽어 이 녀석을 주소가 왔을 때 노출한다. 따라서 우리가 만든 문서를 html로 바꾸고 이를 `index.html` 해당 리포에 넣어주면 이 녀석을 저 주소에서 웹에 노출시킬 수 있는 것이다. stackedit.io의 publish 기능이 바로 이것을 실현해준다. 
 
 <p align="center">
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True"></p>
+  <img width="500" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_7.png?raw=True"></p>
 
 
 - 싱크 버튼(원형 화살표)을 누르면 파일이 동기화된다. 즉 작업 중인 md 파일이 동기화된다. 
@@ -122,6 +122,6 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzA4NjM2NiwtNzI1OTIyMzQyLC0yOD
-c2NDYwOTIsLTE3OTQwNDQ3NDMsMzc1MjMzNzk4XX0=
+eyJoaXN0b3J5IjpbNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4Nz
+Y0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
 -->
