@@ -118,7 +118,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 홈페이지의 구조는 다음과 같다. 편의상 lostineconomics.com을 예로 들겠다.
 
 - lostineconomics.com이 포워딩되는 주소: anarinsk.github.io 
-- 개별 포스팅의 주소: anarinsk.github.io/리포주소 (예를 들어, 이 글의 주소는 anarinsk.github.io/
+- 개별 포스팅의 주소: anarinsk.github.io/리포주소 (예를 들어, 이 글의 주소는 anarinsk.github.io/lie-build_lie)
 
 별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리상 편할 수 있다. 만일 포스팅이 많은 데이터나 자료가 동원된다면 오히려 자연스럽게 정리되는 효과도 있다. 
  
@@ -132,10 +132,10 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NDk2NzM3LC05MDIyNjI1NDYsNDI2NT
-A5MTg0LDczOTg0MDUyMiwxMzAwMzM0MjEzLDE4ODcwMjE1Niwt
-Mjk5NTQwMDc5LC0xODAxOTk3ODE2LC0xMTkyODU0Njc5LDkyOD
-gzODc0MiwtMTI4MjcyOTg2LDE1MTkwODk1NDksNjc2NjAwNjc2
-LC03MjU5MjIzNDIsLTI4NzY0NjA5MiwtMTc5NDA0NDc0MywzNz
-UyMzM3OThdfQ==
+eyJoaXN0b3J5IjpbLTk5MTQyMzI4NiwtOTAyMjYyNTQ2LDQyNj
+UwOTE4NCw3Mzk4NDA1MjIsMTMwMDMzNDIxMywxODg3MDIxNTYs
+LTI5OTU0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1NDY3OSw5Mj
+g4Mzg3NDIsLTEyODI3Mjk4NiwxNTE5MDg5NTQ5LDY3NjYwMDY3
+NiwtNzI1OTIyMzQyLC0yODc2NDYwOTIsLTE3OTQwNDQ3NDMsMz
+c1MjMzNzk4XX0=
 -->
