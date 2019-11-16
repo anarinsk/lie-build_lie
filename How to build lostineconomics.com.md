@@ -31,7 +31,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 [^1]: 링크 하나만 적어둔다.  [https://blog.chulgil.me/how-to-make-blog-using-github-1](https://blog.chulgil.me/how-to-make-blog-using-github-1/)
 
-어느날 마음에 드는 Hugo skin을 고르고 있다가  이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 $\LaTeX$ 이 휼륭하게 렌더링되는 정도인데..." 그런데 이런 허름한 미니멀리즘 구현하는 게 의외로 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)로 글을 쓰면 여기에 여러 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지... 
+어느날 마음에 드는 Hugo skin을 고르고 있다가 이런 생각이 들었다. '내가 원하는 건 이런게 아니라, 그냥 블랭크 페이지에 $\LaTeX$ 이 휼륭하게 렌더링되는 정도인데..." 그런데 이런 허름한 미니멀리즘 구현하는 게 생각보다 쉽지 않았다. Jekyll이든 Hugo든 모두 블로그를 통으로 관리하게 만든 툴이다. md(markdown)로 글을 쓰면 여기에 여러 옷을 입히는 형태인데 이 옷을 내 마음대로 제어하는게 쉽지 않았다. 물론 이는 내가 html이나 javascript에 무지하기 때문이다. 이를 잘 알았다면 내가 원하는 형태대로 이리저리 뜯어고칠 수 있었겠지... 
 
 # stackedit.io, the king 
 
@@ -124,7 +124,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
  
 # Customization?
 
-아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 입맛대로 설정하고 이를 저장할 수 있다. 앞서 Publish 메뉴에서 확인할 수 있듯이 자신이 필요한 스타일을 적용할 수 있는 옵션을 제공한다. 
+아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 입맛대로 설정하고 이를 저장할 수 있다. 앞서 Publish 메뉴에서 확인할 수 있듯이 자신이 필요한 코드나 스타일을 적용할 수 있는 옵션을 제공한다. 
 
 <p align="center">
 <kbd>
@@ -132,10 +132,10 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTQyMzI4NiwtOTAyMjYyNTQ2LDQyNj
-UwOTE4NCw3Mzk4NDA1MjIsMTMwMDMzNDIxMywxODg3MDIxNTYs
-LTI5OTU0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1NDY3OSw5Mj
-g4Mzg3NDIsLTEyODI3Mjk4NiwxNTE5MDg5NTQ5LDY3NjYwMDY3
-NiwtNzI1OTIyMzQyLC0yODc2NDYwOTIsLTE3OTQwNDQ3NDMsMz
-c1MjMzNzk4XX0=
+eyJoaXN0b3J5IjpbMzQ1MTgzNzU4LC05OTE0MjMyODYsLTkwMj
+I2MjU0Niw0MjY1MDkxODQsNzM5ODQwNTIyLDEzMDAzMzQyMTMs
+MTg4NzAyMTU2LC0yOTk1NDAwNzksLTE4MDE5OTc4MTYsLTExOT
+I4NTQ2NzksOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOTA4OTU0
+OSw2NzY2MDA2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNz
+k0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
