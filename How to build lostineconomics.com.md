@@ -94,9 +94,9 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 <p align="center">
 <kbd>
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6.png?raw=True"></kbd></p>
+  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_6cat.png?raw=True"></kbd></p>
 
-- Publish에서 주의해야 할 것은 "File Path"다. 보통 작성중인 md 파일이 디폴트로 담겨 있다. 녀석을 `index.html`로 바꿔주자. 한번만 바꿔주면 이대로 깃헙으로 푸시가 이루어진다. 
+- Publish에서 주의해야 할 것은 "File Path"다. 보통 작성중인 md 파일이 디폴트로 담겨 있다. 그림에서 고양이가 서 있는 부분을 `index.html`로 바꿔주자. 한번만 바꿔주면 이대로 깃헙으로 푸시가 이루어진다. 
 - 마지막으로 깃헙 리포의 "Setting"에서 "Github Pages" 옵션을 활성화해준다. 활성화 후 주소를 확인할 수 있다. 
 
 <p align="center">
@@ -118,7 +118,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 홈페이지의 구조는 다음과 같다. 편의상 lostineconomics.com을 예로 들겠다.
 
 - lostineconomics.com이 포워딩되는 주소: anarinsk.github.io 
-- 개별 포스팅의 주소: anarinsk.github.io/리포주소 
+- 개별 포스팅의 주소: anarinsk.github.io/리포주소 (예를 들어, 이 글의 주소는 anarinsk.github.io/
 
 별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리상 편할 수 있다. 만일 포스팅이 많은 데이터나 자료가 동원된다면 오히려 자연스럽게 정리되는 효과도 있다. 
  
@@ -132,9 +132,10 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjI2MjU0Niw0MjY1MDkxODQsNzM5OD
-QwNTIyLDEzMDAzMzQyMTMsMTg4NzAyMTU2LC0yOTk1NDAwNzks
-LTE4MDE5OTc4MTYsLTExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMj
-gyNzI5ODYsMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0
-MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbNjY2NDk2NzM3LC05MDIyNjI1NDYsNDI2NT
+A5MTg0LDczOTg0MDUyMiwxMzAwMzM0MjEzLDE4ODcwMjE1Niwt
+Mjk5NTQwMDc5LC0xODAxOTk3ODE2LC0xMTkyODU0Njc5LDkyOD
+gzODc0MiwtMTI4MjcyOTg2LDE1MTkwODk1NDksNjc2NjAwNjc2
+LC03MjU5MjIzNDIsLTI4NzY0NjA5MiwtMTc5NDA0NDc0MywzNz
+UyMzM3OThdfQ==
 -->
