@@ -119,7 +119,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 - lostineconomics.com이 포워딩되는 주소: anarinsk.github.io 
 - 개별 포스팅의 주소: anarinsk.github.io/리포주소 (예를 들어, 이 글의 주소는 anarinsk.github.io/lie-build_lie)
 
-별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리상 편할 수 있다. 만일 포스팅이 많은 데이터나 자료가 동원된다면 오히려 자연스럽게 정리되는 효과도 있다. 
+별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리하기 편할 수 있다. 만일 포스팅이 많은 데이터나 자료를 품고 있다면 자연스럽게 정리되는 효과도 있겠다.
  
 # Customization?
 
@@ -131,10 +131,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTQ4NDc3LDM0NTE4Mzc1OCwtOTkxND
-IzMjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0LDczOTg0MDUyMiwx
-MzAwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5LC0xODAxOT
-k3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4MjcyOTg2
-LDE1MTkwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4Nz
-Y0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
+eyJoaXN0b3J5IjpbLTE2OTg3OTgyOTksLTQ5OTQ4NDc3LDM0NT
+E4Mzc1OCwtOTkxNDIzMjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0
+LDczOTg0MDUyMiwxMzAwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NT
+QwMDc5LC0xODAxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0
+MiwtMTI4MjcyOTg2LDE1MTkwODk1NDksNjc2NjAwNjc2LC03Mj
+U5MjIzNDIsLTI4NzY0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3
+OThdfQ==
 -->
