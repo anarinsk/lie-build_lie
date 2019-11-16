@@ -1,7 +1,3 @@
-<head>
-<script data-ad-client="ca-pub-5998015764378916" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</head>
-
 **How to Build lostineconomics.com**
  
 
@@ -136,9 +132,9 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxODI2OCw0MjY1MDkxODQsNzM5ODQwNT
-IyLDEzMDAzMzQyMTMsMTg4NzAyMTU2LC0yOTk1NDAwNzksLTE4
-MDE5OTc4MTYsLTExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMjgyNz
-I5ODYsMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0Miwt
-Mjg3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbLTkwMjI2MjU0Niw0MjY1MDkxODQsNzM5OD
+QwNTIyLDEzMDAzMzQyMTMsMTg4NzAyMTU2LC0yOTk1NDAwNzks
+LTE4MDE5OTc4MTYsLTExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMj
+gyNzI5ODYsMTUxOTA4OTU0OSw2NzY2MDA2NzYsLTcyNTkyMjM0
+MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0NzQzLDM3NTIzMzc5OF19
 -->
