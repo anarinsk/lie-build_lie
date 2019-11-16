@@ -74,7 +74,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 이러한 운영 방식의 단점은 다음과 같다. 
 
 - 복잡하다. md를 고치고 html로 저장하고 이를 다시 깃헙을 열어 심어줘야 한다. 뭔가 깔끔하지 않다. 
-- html을 렌더링해주는 서비스가 그다지 빠릿빠릿하지 않다. 없어지는 서비스도 있고 렌더링도 느린 경우도 종종 있다. 
+- html을 렌더링해주는 서비스가 그다지 빠릿빠릿하지 않다. 사라지는 서비스도 있고 렌더링 속도도 만족스럽지 않다. 
 
 # Write Easy Way 
 
@@ -133,9 +133,9 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5ODQwNTIyLDEzMDAzMzQyMTMsMTg4Nz
-AyMTU2LC0yOTk1NDAwNzksLTE4MDE5OTc4MTYsLTExOTI4NTQ2
-NzksOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOTA4OTU0OSw2Nz
-Y2MDA2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0
-NzQzLDM3NTIzMzc5OF19
+eyJoaXN0b3J5IjpbNDI2NTA5MTg0LDczOTg0MDUyMiwxMzAwMz
+M0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5LC0xODAxOTk3ODE2
+LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4MjcyOTg2LDE1MT
+kwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4NzY0NjA5
+MiwtMTc5NDA0NDc0MywzNzUyMzM3OThdfQ==
 -->
