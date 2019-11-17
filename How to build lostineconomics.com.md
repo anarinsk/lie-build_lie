@@ -58,7 +58,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 # Landing index.html
 
-일단 `깃헙아이디.github.io`로 리포를 딴다. 즉, lostineconomics.com의 경우에는 `anarinsk.github.io`가 된다. 이 주소가 해당 깃헙 아이디의 대표 주소가 된다. 이 페이지는 일종의 랜딩 페이지, 즉 대문으러 활용할 수 있다. 대문에는 적절한 스타일을 입힐 수 있겠지만, 그런 일은 별로 안 하는 것이 좋다. 대문 페이지의 경우 깃헙에서 제공하는 Jekyll을 활용할 수 있다. lostineconomics.com의 경우 minimal 양식을 더 줄여 활용했다. 
+일단 `깃헙아이디.github.io`로 리포를 딴다. 즉, lostineconomics.com의 경우에는 `anarinsk.github.io`가 된다. 이는 깃헙 리포이기도 하지만, 해당 깃헙 아이디의 대표 주소도 된다. 이 리포/페이지는 일종의 랜딩 페이지, 즉 대문으로 활용할 예정이다. 대문에는 적절한 스타일을 입힐 수 있겠지만, 나는 안 그랬다별로대문 페이지의 경우 깃헙에서 제공하는 Jekyll을 활용할 수 있다. lostineconomics.com의 경우 minimal 양식을 더 줄여 활용했다. 
 
 - 설정을 담고 있는 `_config.yml` 파일을 거의 다 날리고 필요한 부분만 챙겼다. 
 - `index.md` 파일은 대문에 노출될 콘텐츠를 담고 있다. 새로운 포스트가 생길 경우 이 부분만 수정하면 된다. 이 파일 역시 stackedit.io에 연결해두고 쓰면 편리하다. [직접](https://github.com/anarinsk/anarinsk.github.io) 둘러보시라. 
@@ -133,11 +133,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTY4MjU1NCwtMTY5ODc5ODI5OSwtND
-k5NDg0NzcsMzQ1MTgzNzU4LC05OTE0MjMyODYsLTkwMjI2MjU0
-Niw0MjY1MDkxODQsNzM5ODQwNTIyLDEzMDAzMzQyMTMsMTg4Nz
-AyMTU2LC0yOTk1NDAwNzksLTE4MDE5OTc4MTYsLTExOTI4NTQ2
-NzksOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOTA4OTU0OSw2Nz
-Y2MDA2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0
-NzQzXX0=
+eyJoaXN0b3J5IjpbOTU5NTkyMTcwLDExODU2ODI1NTQsLTE2OT
+g3OTgyOTksLTQ5OTQ4NDc3LDM0NTE4Mzc1OCwtOTkxNDIzMjg2
+LC05MDIyNjI1NDYsNDI2NTA5MTg0LDczOTg0MDUyMiwxMzAwMz
+M0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5LC0xODAxOTk3ODE2
+LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4MjcyOTg2LDE1MT
+kwODk1NDksNjc2NjAwNjc2LC03MjU5MjIzNDIsLTI4NzY0NjA5
+Ml19
 -->
