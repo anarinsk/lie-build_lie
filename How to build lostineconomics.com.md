@@ -58,7 +58,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 # Landing index.html
 
-일단 `깃헙아이디.github.io`로 리포지터리(리포)를 딴다. 즉, lostineconomics.com의 경우에는 `anarinsk.github.io`가 된다. 이 주소가 해당 깃헙 아이디의 대표 주소가 된다. 이 페이지는 일종의 랜딩 페이지, 즉 대문으러 활용할 수 있다. 대문에는 적절한 스타일을 입힐 수 있겠지만, 그런 일은 별로 안 하는 것이 좋다. 대문 페이지의 경우 깃헙에서 제공하는 Jekyll을 활용할 수 있다. lostineconomics.com의 경우 minimal 양식을 더 줄여 활용했다. 
+일단 `깃헙아이디.github.io`로 리포를 딴다. 즉, lostineconomics.com의 경우에는 `anarinsk.github.io`가 된다. 이 주소가 해당 깃헙 아이디의 대표 주소가 된다. 이 페이지는 일종의 랜딩 페이지, 즉 대문으러 활용할 수 있다. 대문에는 적절한 스타일을 입힐 수 있겠지만, 그런 일은 별로 안 하는 것이 좋다. 대문 페이지의 경우 깃헙에서 제공하는 Jekyll을 활용할 수 있다. lostineconomics.com의 경우 minimal 양식을 더 줄여 활용했다. 
 
 - 설정을 담고 있는 `_config.yml` 파일을 거의 다 날리고 필요한 부분만 챙겼다. 
 - `index.md` 파일은 대문에 노출될 콘텐츠를 담고 있다. 새로운 포스트가 생길 경우 이 부분만 수정하면 된다. 이 파일 역시 stackedit.io에 연결해두고 쓰면 편리하다. [직접](https://github.com/anarinsk/anarinsk.github.io) 둘러보시라. 
@@ -120,6 +120,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 - 개별 포스팅의 주소: anarinsk.github.io/리포주소 (예를 들어, 이 글의 주소는 anarinsk.github.io/lie-build_lie)
 
 별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리하기 편할 수 있다. 만일 포스팅이 많은 데이터나 자료를 품고 있다면 자연스럽게 정리되는 효과도 있겠다.
+
+주의사항! file path에서 디폴트로 주어진 `.md`를 수정하지 않으면 어떤 일이 생길까? 원래 `.ㅡ`
  
 # Customization?
 
@@ -131,11 +133,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwODQ2NTgzLC0xNjk4Nzk4Mjk5LC00OT
-k0ODQ3NywzNDUxODM3NTgsLTk5MTQyMzI4NiwtOTAyMjYyNTQ2
-LDQyNjUwOTE4NCw3Mzk4NDA1MjIsMTMwMDMzNDIxMywxODg3MD
-IxNTYsLTI5OTU0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1NDY3
-OSw5Mjg4Mzg3NDIsLTEyODI3Mjk4NiwxNTE5MDg5NTQ5LDY3Nj
-YwMDY3NiwtNzI1OTIyMzQyLC0yODc2NDYwOTIsLTE3OTQwNDQ3
-NDNdfQ==
+eyJoaXN0b3J5IjpbMTE4NzUxNTI5MiwtMTY5ODc5ODI5OSwtND
+k5NDg0NzcsMzQ1MTgzNzU4LC05OTE0MjMyODYsLTkwMjI2MjU0
+Niw0MjY1MDkxODQsNzM5ODQwNTIyLDEzMDAzMzQyMTMsMTg4Nz
+AyMTU2LC0yOTk1NDAwNzksLTE4MDE5OTc4MTYsLTExOTI4NTQ2
+NzksOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOTA4OTU0OSw2Nz
+Y2MDA2NzYsLTcyNTkyMjM0MiwtMjg3NjQ2MDkyLC0xNzk0MDQ0
+NzQzXX0=
 -->
