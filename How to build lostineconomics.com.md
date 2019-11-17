@@ -125,7 +125,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 주의사항! file path에서 디폴트로 주어진 `.md`를 수정하지 않으면 어떤 일이 생길까? 원래 `.md` 파일이 html로 교체되는 대참사(!)가 발생할 수 있다. 하지만 당황하지 마시라. 우리는 github에 파일을 저장하고 있다. 과거의 어느 순간으로도 돌아갈 수 있다! 그래도 귀찮은 일이 생기기 전에 publish에 주의하면 좋겠다. 
 
-St
+stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history 메뉴를 누르면 자신이 세이브한 어느 순간으로도 돌아갈 수 있다. stackedit.io 자체적으로 돌아가는 git 시스템이다. 
+
+<p align="center">
+<kbd>
+  <img width="500" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_10.png?raw=True"></kbd></p>
  
 # Customization?
 
@@ -137,7 +141,7 @@ St
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzIyOTE5MywtNTIzMjAyNzY0LDExOD
+eyJoaXN0b3J5IjpbLTIyOTQyMjc0NSwtNTIzMjAyNzY0LDExOD
 U2ODI1NTQsLTE2OTg3OTgyOTksLTQ5OTQ4NDc3LDM0NTE4Mzc1
 OCwtOTkxNDIzMjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0LDczOT
 g0MDUyMiwxMzAwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5
