@@ -1,4 +1,4 @@
-**How to Build lostineconomics.com**
+**How to Build `lostineconomics.com`**
  
 
 2019-11-14
@@ -131,11 +131,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg3OTgyOTksLTQ5OTQ4NDc3LDM0NT
-E4Mzc1OCwtOTkxNDIzMjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0
-LDczOTg0MDUyMiwxMzAwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NT
-QwMDc5LC0xODAxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0
-MiwtMTI4MjcyOTg2LDE1MTkwODk1NDksNjc2NjAwNjc2LC03Mj
-U5MjIzNDIsLTI4NzY0NjA5MiwtMTc5NDA0NDc0MywzNzUyMzM3
-OThdfQ==
+eyJoaXN0b3J5IjpbLTE4MzQxMDcwODMsLTE2OTg3OTgyOTksLT
+Q5OTQ4NDc3LDM0NTE4Mzc1OCwtOTkxNDIzMjg2LC05MDIyNjI1
+NDYsNDI2NTA5MTg0LDczOTg0MDUyMiwxMzAwMzM0MjEzLDE4OD
+cwMjE1NiwtMjk5NTQwMDc5LC0xODAxOTk3ODE2LC0xMTkyODU0
+Njc5LDkyODgzODc0MiwtMTI4MjcyOTg2LDE1MTkwODk1NDksNj
+c2NjAwNjc2LC03MjU5MjIzNDIsLTI4NzY0NjA5MiwtMTc5NDA0
+NDc0M119
 -->
