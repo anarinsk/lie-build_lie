@@ -121,7 +121,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리하기 편할 수 있다. 만일 포스팅이 많은 데이터나 자료를 품고 있다면 자연스럽게 정리되는 효과도 있겠다.
 
-주의사항! file path에서 디폴트로 주어진 `.md`를 수정하지 않으면 어떤 일이 생길까? 원래 `.md` 파일이 html로 교체되는 대참사(!)가 발생할 수 있다. 하지만 당황하지 마시라. 우리는 github에 파일을 저장하고 있다. 과거의 어느 순간으로도 돌아갈 수 있다! 
+주의사항! file path에서 디폴트로 주어진 `.md`를 수정하지 않으면 어떤 일이 생길까? 원래 `.md` 파일이 html로 교체되는 대참사(!)가 발생할 수 있다. 하지만 당황하지 마시라. 우리는 github에 파일을 저장하고 있다. 과거의 어느 순간으로도 돌아갈 수 있다! 그래도 귀찮은 일이 생기기 전에 publish에 주의하면 좋겠다. 
  
 # Customization?
 
@@ -133,7 +133,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTc0ODY1OSwtMTY5ODc5ODI5OSwtND
+eyJoaXN0b3J5IjpbMTE4NTY4MjU1NCwtMTY5ODc5ODI5OSwtND
 k5NDg0NzcsMzQ1MTgzNzU4LC05OTE0MjMyODYsLTkwMjI2MjU0
 Niw0MjY1MDkxODQsNzM5ODQwNTIyLDEzMDAzMzQyMTMsMTg4Nz
 AyMTU2LC0yOTk1NDAwNzksLTE4MDE5OTc4MTYsLTExOTI4NTQ2
