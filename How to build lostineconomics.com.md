@@ -58,7 +58,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 # Landing index.html
 
-일단 `깃헙아이디.github.io`로 리포를 딴다. 즉, lostineconomics.com의 경우에는 `anarinsk.github.io`가 된다. 이는 깃헙 리포이기도 하지만, 해당 깃헙 아이디의 대표 주소도 된다. 이 리포/페이지는 일종의 랜딩 페이지, 즉 대문으로 활용할 예정이다. 대문에는 적절한 스타일을 입힐 수 있겠지만, 나는 안했다. 
+일단 `깃헙아이디.github.io`로 리포를 딴다. 즉, lostineconomics.com의 경우에는 `anarinsk.github.io`가 된다. 이는 깃헙 리포이기도 하지만, 해당 깃헙 아이디의 대표 주소도 된다. 이 리포/페이지를 일종의 랜딩 페이지, 즉 대문으로 활용할 수 있다. 대문에는 여러가지 스타일을 입힐 수 있겠지만 나는 안했다. 
 
 대문 페이지의 경우 깃헙에서 제공하는 Jekyll을 활용할 수 있다. lostineconomics.com의 경우 minimal 양식을 더 줄여 활용했다. 
 
@@ -124,6 +124,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 별도의 리포를 만드는 것이 번거로워보일 수 있지만, 사실 이렇게 별도의 리포로 분리되는 것이 관리하기 편할 수 있다. 만일 포스팅이 많은 데이터나 자료를 품고 있다면 자연스럽게 정리되는 효과도 있겠다.
 
 주의사항! file path에서 디폴트로 주어진 `.md`를 수정하지 않으면 어떤 일이 생길까? 원래 `.md` 파일이 html로 교체되는 대참사(!)가 발생할 수 있다. 하지만 당황하지 마시라. 우리는 github에 파일을 저장하고 있다. 과거의 어느 순간으로도 돌아갈 수 있다! 그래도 귀찮은 일이 생기기 전에 publish에 주의하면 좋겠다. 
+
+St
  
 # Customization?
 
@@ -135,11 +137,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzIwMjc2NCwxMTg1NjgyNTU0LC0xNj
-k4Nzk4Mjk5LC00OTk0ODQ3NywzNDUxODM3NTgsLTk5MTQyMzI4
-NiwtOTAyMjYyNTQ2LDQyNjUwOTE4NCw3Mzk4NDA1MjIsMTMwMD
-MzNDIxMywxODg3MDIxNTYsLTI5OTU0MDA3OSwtMTgwMTk5Nzgx
-NiwtMTE5Mjg1NDY3OSw5Mjg4Mzg3NDIsLTEyODI3Mjk4NiwxNT
-E5MDg5NTQ5LDY3NjYwMDY3NiwtNzI1OTIyMzQyLC0yODc2NDYw
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTQzMzIyOTE5MywtNTIzMjAyNzY0LDExOD
+U2ODI1NTQsLTE2OTg3OTgyOTksLTQ5OTQ4NDc3LDM0NTE4Mzc1
+OCwtOTkxNDIzMjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0LDczOT
+g0MDUyMiwxMzAwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5
+LC0xODAxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMT
+I4MjcyOTg2LDE1MTkwODk1NDksNjc2NjAwNjc2LC03MjU5MjIz
+NDJdfQ==
 -->
