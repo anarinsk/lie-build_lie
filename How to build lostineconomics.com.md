@@ -44,7 +44,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 1. stackedit.io는 github에서 소스를 받아와 웹 브라우저 상에서 가볍게 구현된다. 개인별 설정은 구글 드라이브 혹은 깃헙 저장한다. 어디서 쓰든 적절한 계정으로 로긴만 하면 작성하던 글을 포함해서 동일한 환경이 보장된다. 
 2. 위 그림처럼 폴더 버튼을 누르면 왼쪽으로 어떤 것을 썼는지 볼 수 있고 디렉토리 구조로 정리도 쉽게 구현할 수 있다. 오른쪽의 샵 버튼을 누르면 오른쪽으로 설정 관련 메뉴가 뜬다. 
 3. md 문서를 다양한 형태로 저장하고, 변형하고, publish할 수 있다. 
-4. $$
+4. $\LaTeX$ 수식이 필요한 사람에게는 딱이다. $\LaTeX$과 같이 본격적인 조판 작업에는 여러모로 아쉬움이 있지만 KaTeX을 통해 지원되는 정도로도 왠만한 용도는 감당하고 남는다. 
 
 <p align="center">
 <kbd>
@@ -142,7 +142,7 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA3MzA1ODEsLTkwMDEwMjcxNywtMj
+eyJoaXN0b3J5IjpbLTE4ODc1Mzc0MjEsLTkwMDEwMjcxNywtMj
 I5NDIyNzQ1LC01MjMyMDI3NjQsMTE4NTY4MjU1NCwtMTY5ODc5
 ODI5OSwtNDk5NDg0NzcsMzQ1MTgzNzU4LC05OTE0MjMyODYsLT
 kwMjI2MjU0Niw0MjY1MDkxODQsNzM5ODQwNTIyLDEzMDAzMzQy
