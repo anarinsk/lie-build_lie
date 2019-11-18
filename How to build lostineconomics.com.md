@@ -130,11 +130,11 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 <p align="center">
 <kbd>
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_11.png?raw=True"></kbd></p>
+  <img width="250" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_11.png?raw=True"></kbd></p>
  
 # Customization?
 
-아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 입맛대로 설정하고 이를 저장할 수 있다. 앞서 Publish 메뉴에서 확인할 수 있듯이 자신이 필요한 코드나 스타일(css)을 적용할 수 있는 옵션을 제공한다. 기본 제공되는 네 개의 스타일은 삭제나 수정이 불가능하고, 이를 복사해서 나름의 코드와 스타일을 수정한 뒤 이를 publish 단계에서 적용할 수 있다. 
+아무리 허름하다고 해도 특화는 필요하다! 예를 들어 Google Analytics를 심고 싶다면 어찌해야 하는가? stackedit.io에는 개별적인 특화 기능도 제공한다. "Templates" 메뉴에서 특화된 html을 입맛대로 설정하고 이를 저장할 수 있다. 앞서 Publish 메뉴에서 확인할 수 있듯이 자신이 필요한 코드나 스타일(css)을 적용할 수 있는 옵션을 제공한다. 기본 제공되는 네 개의 스타일은 삭제나 수정이 불가능하고, 이를 복사해서 나름의 코드와 스타일을 수정한 뒤 이를 publish 단계에서 적용할 수 있다. 아래 그림 중 박스친 것들은 커스터마즈한 항목의 예시다. 
 
 <p align="center">
 <kbd>
@@ -142,11 +142,11 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc1Mzc0MjEsLTkwMDEwMjcxNywtMj
-I5NDIyNzQ1LC01MjMyMDI3NjQsMTE4NTY4MjU1NCwtMTY5ODc5
-ODI5OSwtNDk5NDg0NzcsMzQ1MTgzNzU4LC05OTE0MjMyODYsLT
-kwMjI2MjU0Niw0MjY1MDkxODQsNzM5ODQwNTIyLDEzMDAzMzQy
-MTMsMTg4NzAyMTU2LC0yOTk1NDAwNzksLTE4MDE5OTc4MTYsLT
-ExOTI4NTQ2NzksOTI4ODM4NzQyLC0xMjgyNzI5ODYsMTUxOTA4
-OTU0OV19
+eyJoaXN0b3J5IjpbLTI5Nzg2NjgyMCwtMTg4NzUzNzQyMSwtOT
+AwMTAyNzE3LC0yMjk0MjI3NDUsLTUyMzIwMjc2NCwxMTg1Njgy
+NTU0LC0xNjk4Nzk4Mjk5LC00OTk0ODQ3NywzNDUxODM3NTgsLT
+k5MTQyMzI4NiwtOTAyMjYyNTQ2LDQyNjUwOTE4NCw3Mzk4NDA1
+MjIsMTMwMDMzNDIxMywxODg3MDIxNTYsLTI5OTU0MDA3OSwtMT
+gwMTk5NzgxNiwtMTE5Mjg1NDY3OSw5Mjg4Mzg3NDIsLTEyODI3
+Mjk4Nl19
 -->
