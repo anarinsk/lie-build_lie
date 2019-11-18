@@ -106,7 +106,8 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
   <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_8.png?raw=True"></kbd></p>
 
 <p align="center">
-  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True"></p>
+<kbd>
+  <img width="400" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_9.png?raw=True"></kbd></p>
 
 해당 버튼 옆에 깃헙 아이콘은 동기화된 파일로 이동을 바로 구현해준다. 이것도 꽤 편리하게 활용할 수 있다. 구현 방식을 정리해보자. 
 
@@ -142,11 +143,11 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Nzg2NjgyMCwtMTg4NzUzNzQyMSwtOT
-AwMTAyNzE3LC0yMjk0MjI3NDUsLTUyMzIwMjc2NCwxMTg1Njgy
-NTU0LC0xNjk4Nzk4Mjk5LC00OTk0ODQ3NywzNDUxODM3NTgsLT
-k5MTQyMzI4NiwtOTAyMjYyNTQ2LDQyNjUwOTE4NCw3Mzk4NDA1
-MjIsMTMwMDMzNDIxMywxODg3MDIxNTYsLTI5OTU0MDA3OSwtMT
-gwMTk5NzgxNiwtMTE5Mjg1NDY3OSw5Mjg4Mzg3NDIsLTEyODI3
-Mjk4Nl19
+eyJoaXN0b3J5IjpbLTE0MDI4MjYxLC0xODg3NTM3NDIxLC05MD
+AxMDI3MTcsLTIyOTQyMjc0NSwtNTIzMjAyNzY0LDExODU2ODI1
+NTQsLTE2OTg3OTgyOTksLTQ5OTQ4NDc3LDM0NTE4Mzc1OCwtOT
+kxNDIzMjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0LDczOTg0MDUy
+MiwxMzAwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5LC0xOD
+AxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4Mjcy
+OTg2XX0=
 -->
