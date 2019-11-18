@@ -42,7 +42,7 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
   <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_2.png?raw=True"></kbd></p>
   
 1. stackedit.io는 github에서 소스를 받아와 웹 브라우저 상에서 가볍게 구현된다. 개인별 설정은 구글 드라이브 혹은 깃헙 저장한다. 어디서 쓰든 적절한 계정으로 로긴만 하면 작성하던 글을 포함해서 동일한 환경이 보장된다. 
-2. 위 그림처럼 폴더 버튼을 누르면 왼쪽으로 어떤 것을 썼는지 볼 수 있고 디렉토리 구조로 정리도 쉽게 구현할 수 있다. 오른쪽의 샵 버튼을 누르면 오른쪽으로 설정 관련 메뉴가 뜬다. 
+2. 위 그림처럼 폴더 버튼을 누면 왼쪽으로 어떤 것을 썼는지 볼 수 있고 디렉토리 구조로 정리도 쉽게 구현할 수 있다. 오른쪽의 샵 버튼을 누르면 오른쪽으로 설정 관련 메뉴가 뜬다. 
 3. md 문서를 다양한 형태로 저장하고, 변형하고, publish할 수 있다. 
 4. $\LaTeX$ 수식이 필요한 사람에게는 딱이다. $\LaTeX$과 같이 본격적인 조판 작업에는 여러모로 아쉬움이 있지만 KaTeX을 통해 지원되는 정도로도 왠만한 용도는 감당하고 남는다. 
 
@@ -131,7 +131,7 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 <p align="center">
 <kbd>
-  <img width="250" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_11.png?raw=True"></kbd></p>
+  <img width="250" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True"></kbd></p>
  
 # Customization?
 
@@ -139,15 +139,15 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 <p align="center">
 <kbd>
-  <img width="300" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_12.png?raw=True"></kbd></p>
+  <img width="0" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_12.png?raw=True"></kbd></p>
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI4MjYxLC0xODg3NTM3NDIxLC05MD
-AxMDI3MTcsLTIyOTQyMjc0NSwtNTIzMjAyNzY0LDExODU2ODI1
-NTQsLTE2OTg3OTgyOTksLTQ5OTQ4NDc3LDM0NTE4Mzc1OCwtOT
-kxNDIzMjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0LDczOTg0MDUy
-MiwxMzAwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5LC0xOD
-AxOTk3ODE2LC0xMTkyODU0Njc5LDkyODgzODc0MiwtMTI4Mjcy
-OTg2XX0=
+eyJoaXN0b3J5IjpbOTM2ODQ3ODc1LC0xNDAyODI2MSwtMTg4Nz
+UzNzQyMSwtOTAwMTAyNzE3LC0yMjk0MjI3NDUsLTUyMzIwMjc2
+NCwxMTg1NjgyNTU0LC0xNjk4Nzk4Mjk5LC00OTk0ODQ3NywzND
+UxODM3NTgsLTk5MTQyMzI4NiwtOTAyMjYyNTQ2LDQyNjUwOTE4
+NCw3Mzk4NDA1MjIsMTMwMDMzNDIxMywxODg3MDIxNTYsLTI5OT
+U0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1NDY3OSw5Mjg4Mzg3
+NDJdfQ==
 -->
