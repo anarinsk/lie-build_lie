@@ -144,15 +144,15 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 <p align="center">
 <kbd>
-  <img width="0" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_12.png?raw=True"></kbd></p>
+  <img width="350" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_12.png?raw=True"></kbd></p>
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Njg5MDMzOSwtODUyODM5OTA3LC0xNj
-k0OTk5ODI0LDkzNjg0Nzg3NSwtMTQwMjgyNjEsLTE4ODc1Mzc0
-MjEsLTkwMDEwMjcxNywtMjI5NDIyNzQ1LC01MjMyMDI3NjQsMT
-E4NTY4MjU1NCwtMTY5ODc5ODI5OSwtNDk5NDg0NzcsMzQ1MTgz
-NzU4LC05OTE0MjMyODYsLTkwMjI2MjU0Niw0MjY1MDkxODQsNz
-M5ODQwNTIyLDEzMDAzMzQyMTMsMTg4NzAyMTU2LC0yOTk1NDAw
-NzldfQ==
+eyJoaXN0b3J5IjpbOTAxMTkyMzg1LDEwNDY4OTAzMzksLTg1Mj
+gzOTkwNywtMTY5NDk5OTgyNCw5MzY4NDc4NzUsLTE0MDI4MjYx
+LC0xODg3NTM3NDIxLC05MDAxMDI3MTcsLTIyOTQyMjc0NSwtNT
+IzMjAyNzY0LDExODU2ODI1NTQsLTE2OTg3OTgyOTksLTQ5OTQ4
+NDc3LDM0NTE4Mzc1OCwtOTkxNDIzMjg2LC05MDIyNjI1NDYsND
+I2NTA5MTg0LDczOTg0MDUyMiwxMzAwMzM0MjEzLDE4ODcwMjE1
+Nl19
 -->
