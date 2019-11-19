@@ -134,7 +134,7 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 <p align="center">
 <kbd>
-  <img width="250" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_1.png?raw=True"></kbd></p>
+  <img width="250" src="https://github.com/anarinsk/lie-build_lie/blob/master/assets/imgs/img_11.png?raw=True"></kbd></p>
  
 # Customization?
 
@@ -146,11 +146,11 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ5OTk4MjQsOTM2ODQ3ODc1LC0xND
-AyODI2MSwtMTg4NzUzNzQyMSwtOTAwMTAyNzE3LC0yMjk0MjI3
-NDUsLTUyMzIwMjc2NCwxMTg1NjgyNTU0LC0xNjk4Nzk4Mjk5LC
-00OTk0ODQ3NywzNDUxODM3NTgsLTk5MTQyMzI4NiwtOTAyMjYy
-NTQ2LDQyNjUwOTE4NCw3Mzk4NDA1MjIsMTMwMDMzNDIxMywxOD
-g3MDIxNTYsLTI5OTU0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1
-NDY3OV19
+eyJoaXN0b3J5IjpbLTg1MjgzOTkwNywtMTY5NDk5OTgyNCw5Mz
+Y4NDc4NzUsLTE0MDI4MjYxLC0xODg3NTM3NDIxLC05MDAxMDI3
+MTcsLTIyOTQyMjc0NSwtNTIzMjAyNzY0LDExODU2ODI1NTQsLT
+E2OTg3OTgyOTksLTQ5OTQ4NDc3LDM0NTE4Mzc1OCwtOTkxNDIz
+Mjg2LC05MDIyNjI1NDYsNDI2NTA5MTg0LDczOTg0MDUyMiwxMz
+AwMzM0MjEzLDE4ODcwMjE1NiwtMjk5NTQwMDc5LC0xODAxOTk3
+ODE2XX0=
 -->
