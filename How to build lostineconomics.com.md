@@ -126,11 +126,11 @@ md를 빠르게 로컬에 속박되지 않고 쓰게 해주는 툴들이 많이 
 별도의 리포를 만드는 것이 번거로워보일 수 있겠다. 이런 관리 방식에는 귀차니즘 비용보다 큰 장점이 있다. 
 
 - 이렇게 별도의 리포로 분리되는 것이 관리하기 편할 수 있다. 만일 포스팅이 많은 데이터나 자료를 품고 있다면 자연스럽게 정리되는 효과가 있다. 
-- 주소 상의 잇점을 
+- url 주소 상의 이득이 있다. 즉, ` anarinsk.github.io/[리포이름]` 방식으로 각 포스팅의 주소가 생성된다. 
 
 주의사항! file path에서 디폴트로 주어진 `.md`를 수정하지 않으면 어떤 일이 생길까? 원래 `.md` 파일이 html로 교체되는 대참사(!)가 발생할 수 있다. 하지만 당황하지 마시라. 우리는 github에 파일을 저장하고 있다. 과거의 어느 순간으로도 돌아갈 수 있다! 그래도 귀찮은 일이 생기기 전에 publish에 주의하면 좋겠다. 
 
-stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history 메뉴를 누르면 자신이 세이브한 어느 순간으로도 돌아갈 수 있다. stackedit.io 자체적으로 돌아가는 git 시스템이다. 
+stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history 메뉴를 누르면 자신이 세이브한 어느 순간으로도 돌아갈 수 있다. stackedit.io 자체적으로 돌아가는 git 시스템이다. 훌륭하지 아니한가! 
 
 <p align="center">
 <kbd>
@@ -146,11 +146,11 @@ stackedit.io 차원에서 제공되는 안전장치도 있다. 아래 history �
 
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDc5NzU5Myw5MzY4NDc4NzUsLTE0MD
-I4MjYxLC0xODg3NTM3NDIxLC05MDAxMDI3MTcsLTIyOTQyMjc0
-NSwtNTIzMjAyNzY0LDExODU2ODI1NTQsLTE2OTg3OTgyOTksLT
-Q5OTQ4NDc3LDM0NTE4Mzc1OCwtOTkxNDIzMjg2LC05MDIyNjI1
-NDYsNDI2NTA5MTg0LDczOTg0MDUyMiwxMzAwMzM0MjEzLDE4OD
-cwMjE1NiwtMjk5NTQwMDc5LC0xODAxOTk3ODE2LC0xMTkyODU0
-Njc5XX0=
+eyJoaXN0b3J5IjpbLTE2OTQ5OTk4MjQsOTM2ODQ3ODc1LC0xND
+AyODI2MSwtMTg4NzUzNzQyMSwtOTAwMTAyNzE3LC0yMjk0MjI3
+NDUsLTUyMzIwMjc2NCwxMTg1NjgyNTU0LC0xNjk4Nzk4Mjk5LC
+00OTk0ODQ3NywzNDUxODM3NTgsLTk5MTQyMzI4NiwtOTAyMjYy
+NTQ2LDQyNjUwOTE4NCw3Mzk4NDA1MjIsMTMwMDMzNDIxMywxOD
+g3MDIxNTYsLTI5OTU0MDA3OSwtMTgwMTk5NzgxNiwtMTE5Mjg1
+NDY3OV19
 -->
